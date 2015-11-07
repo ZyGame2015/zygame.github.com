@@ -173,6 +173,11 @@
             <sources dir="${basedir}">
                 <file name="src/resource.js"/>
                 <file name="src/app.js"/>
+                <file name="src/man.js"/>
+                <file name="src/fuck.js"/>
+                <file name="src/food1.js"/>
+                <file name="src/food2.js"/>
+                <file name="src/food3.js"/>
                 <file name="main.js"/>
 
             </sources>
